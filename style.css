@@ -1,0 +1,29 @@
+.titulo {
+    margin-left: 250px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    color: white;
+    padding: 0px;
+    margin-right: 0px;
+  
+}
+
+.container {
+    background-color: rgb(25, 202, 25);
+
+}
+
+
+
+body {
+    background-image: url(img/bc.jpg);
+    color: white;
+}
+
+.card-text  {
+    color: black;
+}
+
+.card {
+    margin-left: 15px;
+}
